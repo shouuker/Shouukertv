@@ -1,0 +1,546 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="Cine, Novelas y Series",Volver 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
+
+#EXTINF:-1 ch-number="11" tvg-id="[CNNL].CNN.En.Español.uy" tvg-logo="https://i.postimg.cc/J0CFyJwB/CNN_en_Español.png" group-title="Interés General", CNN en Español
+
+https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Espanol.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" group-title="Argentina", Ar|12
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343495/lfiirtos0kntrahjmmro.png" group-title="Argentina",Cronica 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="Argentina",A24 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/c5n.png" group-title="Argentina",C5N 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="Argentina",LN+ 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="Argentina",Canal 26 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="Argentina",El Nueve 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DD1GRsP/america.webp" group-title="Argentina",America TV 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
+
+#EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Telefe
+
+http://190.7.19.197:232/play/a059/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",2-Telefe 2
+
+http://45.238.54.67:8000/play/b02e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="Argentina",TN
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="Argentina",TV Publica
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="Argentina",El Trece
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN Premium 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+
+#EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FUTBOL",Espn Premiun  opc 2
+
+http://190.7.19.197:232/play/a038/index.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="Varios",39-ESPN Premium opc 3
+
+http://181.13.252.102:8000/play/a078/index.m3u8
+
+#EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FUTBOL",Espn Premiun opc 4
+
+http://190.95.60.228:8500/play/a09v
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxnmtt7S/lfpargentina.png" group-title="Argentina - Pack Fútbol",TNT Premium 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Premium opc 2
+
+http://190.7.19.197:232/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="⭐ DIRECTV ⭐", TNT Premium opc3
+
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Premium opc 4
+
+http://190.95.60.228:8500/play/a08j
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="Deportes",TyC Sports
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+
+#EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="Deportes",ESPN 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN opc 2
+
+http://190.95.60.228:8500/play/a013
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="Deportes",ESPN 2 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://wtcks.com/images/channels/logos/espn2.png" group-title="Deportes",ESPN 2 opc2
+
+http://190.95.60.228:8500/play/a012
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="Deportes",ESPN 3 (C)
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="Deportes",ESPN 3 opc2
+
+http://190.95.60.228:8500/play/a014
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="Deportes",ESPN 4 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Deportes",ESPN 4 opc 2
+
+http://190.95.60.228:8500/play/a03w
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",77-ESPN 5
+
+http://217.26.190.76:8888/play/a0kh/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 opc 2
+
+http://181.176.155.7:8090/play/a1e8/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6.png" group-title="Deportes",ESPN 6 
+
+http://190.238.43.117:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7
+
+http://191.97.59.33:8000/play/a094/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CHILE",DISNEY 1
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9905
+
+#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 2
+http://191.97.14.162:8000/play/a016/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
+
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="FLOW 3" ch-number="103" type="channel",DISNEY 3
+
+https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
+
+#EXTINF:-1 group-title="PACK FUTBOL",DISNEY 4
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="Deportes",Fox Sports 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344086/ga6vdlikxfa3c8puixeq.png" group-title="Deportes",Fox Sports 2 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344107/fdnnmnk6gnmfoggvvh8t.png" group-title="Deportes",Fox Sports 3 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
+
+http://138.121.114.91:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS HD
+
+https://tv.nousiptv.com:8443/Henrymaria/Perato/43187
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS Ñ HD " tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS Ñ HD 
+
+https://tv.nousiptv.com:8443/Henrymaria/Perato/1155904
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title="🇳🇮 ROKU MARZO 🇳🇮"    ,40-DSports
+
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS op2
+
+http://38.252.213.12:8000/play/a01k
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Varios", DSports 2
+
+http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/316
+
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2 op2
+
+https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="Varios",53-Dsports +
+
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus op2
+
+https://tv.nousiptv.com:8443/Henrymaria/Perato/8520
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+
+#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="Deportes", Flow Sports
+
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",Cartoon Network 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="Infantil",Tooncast 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="Infantil",Zoo Moo 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="Infantil",Paka Paka 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="Infantil",Baby TV 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="Infantil",Canal Infantil 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="Infantil",Plim Plim TV 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="Cine, Novelas y Series",HBO 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="Cine, Novelas y Series",HBO 2 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine, Novelas y Series",HBO Plus 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345430/sj8snppqk04loiqjaaqm.png" group-title="Cine, Novelas y Series",HBO Pop 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine, Novelas y Series",HBO Xtreme 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344600/z0ecxrdo1hm2paiy4vab.png" group-title="Cine, Novelas y Series",HBO Mundi 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine, Novelas y Series",HBO Family 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="Cine, Novelas y Series",HBO Signature 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1738861342/mxqccbweqij3th5jni3m.png" group-title="Cine, Novelas y Series",FX 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine, Novelas y Series",Cinemax 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346192/wlqczqrkvqmrr4khdekf.png" group-title="Cine, Novelas y Series",Cinecanal 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Cine, Novelas y Series",Golden 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344432/rpwhd2jsw6f45i468bew.png" group-title="Cine, Novelas y Series",AMC 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="Cine, Novelas y Series",Star Channel 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="Cine, Novelas y Series",Warner Channel 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345114/pe7pbo0c5bycumcxxcdf.png" group-title="Cine, Novelas y Series",TNT 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345574/crvpq9vwaupct2wumr9l.png" group-title="Cine, Novelas y Series",TNT Series 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1689266233/wyegs5ojarqf4qonqjp0.png" group-title="Cine, Novelas y Series",TNT Novelas 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/3g734-9lf8i-cda6m-pm6a2.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344768/jr9kvm8tcjv7aiqblavz.png" group-title="Cine, Novelas y Series",Space 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="Cine, Novelas y Series",Cine.AR 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169146/ztlcxgcuqiquwpljsfut.png" group-title="Cine, Novelas y Series",A3Series 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169336/gwe0estuudnrotgm0a1t.png" group-title="Cine, Novelas y Series",A3Cine 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
+
+#EXTINF:-1 ch-number="343" tvg-id="[UNIPR].Universal.Premiere.uy" tvg-logo="https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png" group-title="Universal", Universal Premiere 
+
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
+
+#EXTINF:-1 ch-number="344" tvg-id="[UNICI].Universal.Cinema.uy" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" group-title="Universal", Universal Cinema 
+
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
+
+#EXTINF:-1 ch-number="345" tvg-id="[UNICO].Universal.Comedy.uy" tvg-logo="https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png" group-title="Universal", Universal Comedy 
+
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
+
+#EXTINF:-1 ch-number="346" tvg-id="[UNICR].Universal.Crime.uy" tvg-logo="https://i.postimg.cc/ZKptZDFx/Universal_Crime.png" group-title="Universal", Universal Crime 
+
+https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
+
+#EXTINF:-1 ch-number="347" tvg-id="[UNIRE].Universal.Reality.uy" tvg-logo="https://i.postimg.cc/ZKptZDFj/Universal_Reality.png" group-title="Universal", Universal Reality 
+
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
+
+#EXTINF:0 tvg-id="DHE.co" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Cine, Novelas y Series", DHE
+
+https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
+
+#EXTINF:-1 ch-number="410" tvg-id="EL GOURMET.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/800/542/0/0/15069203073244.png" group-title="Estilo de vida", El Gourmet
+
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
+
+#EXTINF:-1 ch-number="11" tvg-id="Home and Health HD.uy" tvg-logo="https://i.postimg.cc/KvX2wggG/Discovery_Home_and_Healt.png" group-title="Estilo de vida", Discovery H&H
+
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
+
+#EXTINF:-1 ch-number="406" tvg-id="TLC.ar" tvg-logo="https://i.postimg.cc/HnhjTpcP/TLC.png" group-title="Estilo de vida", Discovery TLC
+
+https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2
+
+#EXTINF:-1 ch-number="413" tvg-id="[HGTVLAS].HGTV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/800/542/0/0/28796844071531.png" group-title="Estilo de vida", HGTV
+
+https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd
+#EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
+
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5318&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=7f379c24-0e41-4956-892e-8aad976555b8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="NOW90s00s.uk@Default" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/798cc3b5-1f31-4bee-97d2-39a6555d7b07.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 90s-00s
+
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8?ads_amagi_channel_id=1033&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6994&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=75c457fa-036d-4637-bc61-48af6d50542d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="NOWRocks.uk@Default" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e92f17dc-61c7-4249-9d1c-8013899220af.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW ROCKS
+
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5352&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=08a655cd-479d-4546-ae2b-051feb4b5bd4&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="XITEHits.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="⏩MUSICALES|XITE⏪", XITE Hits
+
+https://jmp2.uk/stvp-USBD3300004RH
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJv-J08hvKCc2AbQusXrgAPmfda2RxIqpHw&s" group-title="Varios",49-Flow Eventos
+
+http://45.238.54.67:8000/play/a0ab/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
+
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="Música", Flow Music
+
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
+
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music 2" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="Música", Flow Music 2
+
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
+
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music 3" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="Música", Flow Music 3
+
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd	|referer=https://portal.app.flow.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
+
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music 4" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="Música", Flow Music 4
+
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd	|referer=https://portal.app.flow.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
+
+#EXTINF:-1 ch-number="420" tvg-id="NAT GEO.ar" tvg-logo="https://i.postimg.cc/wjNBCV7y/Logo_1.png" group-title="Documentales", Nat Geo
+
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+
+#EXTINF:-1 ch-number="401" tvg-id="DISCOVERY CHANNEL.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/800/542/0/0/24951383073066.png" group-title="Documentales", Discovery
+
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
+
+#EXTINF:-1 ch-number="400" tvg-id="ANIMAL PLANET.ar" tvg-logo="https://i.postimg.cc/Sx1KbQ8q/Animal_Planet.png" group-title="Documentales", Animal Planet
+
+https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
+
+#EXTINF:-1 ch-number="407" tvg-id="[DTHLIHD].Discovery.Theater.HD.uy" tvg-logo="https://i.postimg.cc/bNXhW22q/Discovery_Theater.png" group-title="Documentales", Discovery Theater
+
+https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
+
+#EXTINF:-1 ch-number="414" tvg-id="History HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" group-title="Documentales", History
+
+https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
+
+#EXTINF:-1 ch-number="415" tvg-id="History 2 HD.uy" tvg-logo="https://i.postimg.cc/g2THwwrz/Fondo-Oscuro.png" group-title="Documentales", History 2
+
+https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
+
+#EXTINF:-1 ch-number="409" tvg-id="[DWRLDHD].Discovery.World.uy" tvg-logo="https://i.postimg.cc/J4wLvBB1/Discovery_World.png" group-title="Estilo de vida", Discovery World
+
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
+
+#EXTINF:-1 ch-number="404" tvg-id="DISCOVERY SCIENCE.ar" tvg-logo="https://i.postimg.cc/wvp8SnWd/Discovery-Science.png" group-title="Documentales", Discovery Science
+
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd
