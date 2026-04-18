@@ -4,6 +4,7 @@
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="Argentina",CNN en Español (C)
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
