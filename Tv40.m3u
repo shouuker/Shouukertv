@@ -294,96 +294,98 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="Cine, Novelas y Series",HBO 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+#EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="Cine, Novelas y Series",A&E HD (S)
+http://190.7.19.197:232/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="Cine, Novelas y Series",HBO 2 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
+#EXTINF:1 CUID="131" tvg-name="AMC" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/800/542/0/0/29332619071250.png" tvg-id="AMC.ar" group-title="Cine, Novelas y Series",AMC (S)
+http://190.7.19.197:232/play/a046/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine, Novelas y Series",HBO Plus 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
+#EXTINF:1 CUID="135" tvg-name="AXN HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png" tvg-id="AXN.ar" group-title="Cine, Novelas y Series",AXN HD (S)
+http://190.7.19.197:232/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345430/sj8snppqk04loiqjaaqm.png" group-title="Cine, Novelas y Series",HBO Pop 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
+#EXTINF:1 CUID="136" tvg-name="Adult Swim HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/800/542/0/0/32013737078382.png" tvg-id="AdultSwim.ar" group-title="Cine, Novelas y Series",Adult Swim HD (S)
+http://190.7.19.197:232/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine, Novelas y Series",HBO Xtreme 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
+#EXTINF:1 CUID="153" tvg-name="Cinecanal HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" tvg-id="Cinecanal.ar" group-title="Cine, Novelas y Series",Cinecanal HD (S)
+http://190.7.19.197:232/play/a05y/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344600/z0ecxrdo1hm2paiy4vab.png" group-title="Cine, Novelas y Series",HBO Mundi 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+#EXTINF:1 CUID="154" tvg-name="Cinemax" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/800/542/0/0/60951863073142.png" tvg-id="Cinemax.ar" group-title="Cine, Novelas y Series",Cinemax (S)
+http://190.7.19.197:232/play/a009/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine, Novelas y Series",HBO Family 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+#EXTINF:1 CUID="156" tvg-name="Comedy Central HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" tvg-id="ComedyCentral.ar" group-title="Cine, Novelas y Series",Comedy Central HD (S)
+http://190.7.19.197:232/play/a01d/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="Cine, Novelas y Series",HBO Signature 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
+#EXTINF:1 CUID="184" tvg-name="Europa Europa" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/800/542/0/0/8622092407184.png" tvg-id="EuropaEuropa.ar" group-title="Cine, Novelas y Series",Europa Europa (S)
+http://190.7.19.197:232/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1738861342/mxqccbweqij3th5jni3m.png" group-title="Cine, Novelas y Series",FX 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
+#EXTINF:1 CUID="186" tvg-name="FX HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png" tvg-id="FX.ar" group-title="Cine, Novelas y Series",FX HD (S)
+http://190.7.19.197:232/play/a04z/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine, Novelas y Series",Cinemax 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
+#EXTINF:1 CUID="192" tvg-name="HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png" tvg-id="HBO.ar" group-title="Cine, Novelas y Series",HBO (S)
+http://190.7.19.197:232/play/a05e/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346192/wlqczqrkvqmrr4khdekf.png" group-title="Cine, Novelas y Series",Cinecanal 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
+#EXTINF:1 CUID="193" tvg-name="HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" tvg-id="HBO2.ar" group-title="Cine, Novelas y Series",HBO 2 (S)
+http://190.7.19.197:232/play/a05g/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Cine, Novelas y Series",Golden 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
+#EXTINF:1 CUID="194" tvg-name="HBO Family" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png" tvg-id="HBOFamily.ar" group-title="Cine, Novelas y Series",HBO Family (S)
+http://190.7.19.197:232/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344432/rpwhd2jsw6f45i468bew.png" group-title="Cine, Novelas y Series",AMC 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
+#EXTINF:1 CUID="195" tvg-name="HBO Pop" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/800/542/0/0/68908128073927.png" tvg-id="HBOPop.ar" group-title="Cine, Novelas y Series",HBO POP (S)
+http://190.7.19.197:232/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="Cine, Novelas y Series",Star Channel 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+#EXTINF:1 CUID="196" tvg-name="HBO Plus" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png" tvg-id="HBOPlus.ar" group-title="Cine, Novelas y Series",HBO Plus (S)
+http://190.7.19.197:232/play/a05f/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="Cine, Novelas y Series",Warner Channel 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+#EXTINF:1 CUID="197" tvg-name="HBO Signature" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" tvg-id="HBOSignature.ar" group-title="Cine, Novelas y Series",HBO Signature (S)
+http://190.7.19.197:232/play/a04g/index.m3u8
+
+#EXTINF:1 CUID="198" tvg-name="HBO Xtreme" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png" tvg-id="HBOXtreme.ar" group-title="Cine, Novelas y Series",HBO Xtreme (S)
+http://190.7.19.197:232/play/a017/index.m3u8
+
+#EXTINF:1 CUID="220" tvg-name="Paramount Network" tvg-logo="https://logo.m3uassets.com/osnparamount.png" tvg-id="ParamountNetwork.ar" group-title="Cine, Novelas y Series",Paramount HD (S)
+http://190.7.19.197:232/play/a052/index.m3u8
+
+#EXTINF:1 CUID="230" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" tvg-id="Sony.ar" group-title="Cine, Novelas y Series",Sony HD (S)
+http://190.7.19.197:232/play/a01g/index.m3u8
+
+#EXTINF:1 CUID="231" tvg-name="Sony Movies HD" tvg-logo="https://logo.m3uassets.com/sonymovies.png" tvg-id="SonyMovies.ar" group-title="Cine, Novelas y Series",Sony Movies HD (S)
+http://190.7.19.197:232/play/a01i/index.m3u8
+
+#EXTINF:1 CUID="232" tvg-name="Space HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/800/542/0/0/98227784074535.png" tvg-id="Space.ar" group-title="Cine, Novelas y Series",Space HD (S)
+http://190.7.19.197:232/play/a050/index.m3u8
+
+#EXTINF:1 CUID="233" tvg-name="Star Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/800/542/0/0/6901418607879.png" tvg-id="StarChannel.ar" group-title="Cine, Novelas y Series",Star Channel HD (S)
+http://190.7.19.197:232/play/a05w/index.m3u8
+
+#EXTINF:1 CUID="234" tvg-name="Studio Universal" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/800/542/0/0/223329100777.png" tvg-id="StudioUniversal.ar" group-title="Cine, Novelas y Series",Studio Universal (S)
+http://190.7.19.197:232/play/a049/index.m3u8
+
+#EXTINF:1 CUID="236" tvg-name="TCM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/800/542/0/0/1820288007328.png" tvg-id="TCM.ar" group-title="Cine, Novelas y Series",TCM (S)
+http://190.7.19.197:232/play/a014/index.m3u8
+
+#EXTINF:1 CUID="238" tvg-name="TLNovelas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/800/542/0/0/9347484107170.png" tvg-id="TLNovelas.ar" group-title="Cine, Novelas y Series",TLNovelas (S)
+http://190.7.19.197:232/play/a01q/index.m3u8
+
+#EXTINF:1 CUID="240" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" tvg-id="TNT.ar" group-title="Cine, Novelas y Series",TNT HD (S)
+http://190.7.19.197:232/play/a060/index.m3u8
+
+#EXTINF:1 CUID="241" tvg-name="TNT Novelas HD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" tvg-id="TNTNovelas.ar" group-title="Cine, Novelas y Series",TNT Novelas HD (S)
+http://190.7.19.197:232/play/a00g/index.m3u8
+
+#EXTINF:1 CUID="242" tvg-name="TNT Series HD" tvg-logo="https://logo.m3uassets.com/tntseries.png" tvg-id="TNTSeries.ar" group-title="Cine, Novelas y Series",TNT Series HD (S)
+http://190.7.19.197:232/play/a088/index.m3u8
+
+#EXTINF:1 CUID="252" tvg-name="USA Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" tvg-id="USANetwork.ar" group-title="Cine, Novelas y Series",USA Network (S)
+http://190.7.19.197:232/play/a04a/index.m3u8
+
+#EXTINF:1 CUID="253" tvg-name="Universal TV HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" tvg-id="UniversalTV.ar" group-title="Cine, Novelas y Series",Universal HD (S)
+http://190.7.19.197:232/play/a03u/index.m3u8
+
+#EXTINF:1 CUID="256" tvg-name="Warner Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/800/542/0/0/14633187073787.png" tvg-id="WarnerChannel.ar" group-title="Cine, Novelas y Series",Warner Channel HD (S)
+http://190.7.19.197:232/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
 http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345114/pe7pbo0c5bycumcxxcdf.png" group-title="Cine, Novelas y Series",TNT 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345574/crvpq9vwaupct2wumr9l.png" group-title="Cine, Novelas y Series",TNT Series 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1689266233/wyegs5ojarqf4qonqjp0.png" group-title="Cine, Novelas y Series",TNT Novelas 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/3g734-9lf8i-cda6m-pm6a2.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344768/jr9kvm8tcjv7aiqblavz.png" group-title="Cine, Novelas y Series",Space 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="Cine, Novelas y Series",Cine.AR 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169146/ztlcxgcuqiquwpljsfut.png" group-title="Cine, Novelas y Series",A3Series 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169336/gwe0estuudnrotgm0a1t.png" group-title="Cine, Novelas y Series",A3Cine 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
