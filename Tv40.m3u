@@ -432,10 +432,6 @@ https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 
 https://jmp2.uk/stvp-USBD3300004RH
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJv-J08hvKCc2AbQusXrgAPmfda2RxIqpHw&s" group-title="Varios",49-Flow Eventos
-
-http://45.238.54.67:8000/play/a0ab/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
