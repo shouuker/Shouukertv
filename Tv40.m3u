@@ -132,8 +132,6 @@ http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTINF:-1 group-title="SPAIN DEPORTES" tvg-logo="https://lo1.in/sp/mvstcamp.png",ES| M+ LIGA DE CAMPEONES 
 http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1620963.m3u8
 
-#EXTINF:-1 group-title="SPAIN DEPORTES" tvg-logo="https://lo1.in/sp/mvstcamp.png",ES| M+ LIGA DE CAMPEONES 2
-http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1620961.m3u8
 
 #EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
 http://190.7.19.197:232/play/a04w/index.m3u8
