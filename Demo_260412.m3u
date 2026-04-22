@@ -22,5 +22,11 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 
 http://191.97.59.33:8000/play/a0am/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="🎬 UNIVERSAL+ | HBO", HBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+
+#EXTINF:1 CUID="193" tvg-name="HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" tvg-id="HBO2.ar" group-title="Cine, Novelas y Series",HBO 2 (S)
+http://190.7.19.197:232/play/a05g/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
 http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
