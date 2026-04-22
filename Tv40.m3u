@@ -272,11 +272,6 @@ http://190.7.19.197:232/play/a05w/index.m3u8
 #EXTINF:1 CUID="234" tvg-name="Studio Universal" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/800/542/0/0/223329100777.png" tvg-id="StudioUniversal.ar" group-title="Cine, Novelas y Series",Studio Universal (S)
 http://190.7.19.197:232/play/a049/index.m3u8
 
-#EXTINF:1 CUID="236" tvg-name="TCM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/800/542/0/0/1820288007328.png" tvg-id="TCM.ar" group-title="Cine, Novelas y Series",TCM (S)
-http://190.7.19.197:232/play/a014/index.m3u8
-
-#EXTINF:1 CUID="238" tvg-name="TLNovelas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/800/542/0/0/9347484107170.png" tvg-id="TLNovelas.ar" group-title="Cine, Novelas y Series",TLNovelas (S)
-http://190.7.19.197:232/play/a01q/index.m3u8
 
 #EXTINF:1 CUID="240" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" tvg-id="TNT.ar" group-title="Cine, Novelas y Series",TNT HD (S)
 http://190.7.19.197:232/play/a060/index.m3u8
