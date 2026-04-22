@@ -171,10 +171,7 @@ http://186.33.40.97:8789/play/56
 
 http://191.97.59.33:8000/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CHILE",DISNEY 1
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9905
-
-#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY OPC 2
+#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a03e
 
@@ -262,42 +259,6 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/8520
 
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",Cartoon Network 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="Infantil",Tooncast 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="Infantil",Zoo Moo 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="Infantil",Paka Paka 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="Infantil",Baby TV 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="Infantil",Canal Infantil 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="Infantil",Plim Plim TV 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
-
 #EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="Cine, Novelas y Series",A&E HD (S)
 http://190.7.19.197:232/play/a00c/index.m3u8
 
@@ -306,9 +267,6 @@ http://190.7.19.197:232/play/a046/index.m3u8
 
 #EXTINF:1 CUID="135" tvg-name="AXN HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png" tvg-id="AXN.ar" group-title="Cine, Novelas y Series",AXN HD (S)
 http://190.7.19.197:232/play/a00b/index.m3u8
-
-#EXTINF:1 CUID="136" tvg-name="Adult Swim HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/800/542/0/0/32013737078382.png" tvg-id="AdultSwim.ar" group-title="Cine, Novelas y Series",Adult Swim HD (S)
-http://190.7.19.197:232/play/a01s/index.m3u8
 
 #EXTINF:1 CUID="153" tvg-name="Cinecanal HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" tvg-id="Cinecanal.ar" group-title="Cine, Novelas y Series",Cinecanal HD (S)
 http://190.7.19.197:232/play/a05y/index.m3u8
@@ -319,8 +277,6 @@ http://190.7.19.197:232/play/a009/index.m3u8
 #EXTINF:1 CUID="156" tvg-name="Comedy Central HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" tvg-id="ComedyCentral.ar" group-title="Cine, Novelas y Series",Comedy Central HD (S)
 http://190.7.19.197:232/play/a01d/index.m3u8
 
-#EXTINF:1 CUID="184" tvg-name="Europa Europa" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/800/542/0/0/8622092407184.png" tvg-id="EuropaEuropa.ar" group-title="Cine, Novelas y Series",Europa Europa (S)
-http://190.7.19.197:232/play/a01o/index.m3u8
 
 #EXTINF:1 CUID="186" tvg-name="FX HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png" tvg-id="FX.ar" group-title="Cine, Novelas y Series",FX HD (S)
 http://190.7.19.197:232/play/a04z/index.m3u8
