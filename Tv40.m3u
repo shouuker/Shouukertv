@@ -74,7 +74,7 @@ http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/341548.m3u8
 
 
 #EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
-http://38.44.109.41:8003/play/a02l/index.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
 
 #EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
@@ -111,8 +111,10 @@ http://186.33.40.97:8789/play/56
 
 http://191.97.59.33:8000/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="CANALES DE CABLE",Disney
-http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/362746.m3u8
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", Disney
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01l
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY 2
 #EXTVLCOPT:network-caching=1000
@@ -167,7 +169,7 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 http://190.60.40.34:8001/play/a08z
 
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS Ñ HD " tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",BEIN SPORTS 
-http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/335364.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLrMBlm.png" group-title="⚽OTROS DEPORTES⚽", BEIN SPORTS Ñ
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
