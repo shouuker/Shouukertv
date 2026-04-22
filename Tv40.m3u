@@ -171,22 +171,25 @@ http://186.33.40.97:8789/play/56
 
 http://191.97.59.33:8000/play/a094/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="CANALES DE CABLE",Disney
+http://177.10.184.193:8000/play/a053/index.m3u8
+
+#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY 2
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a03e
 
-#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 2
+#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 3
 http://191.97.14.162:8000/play/a016/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="FLOW 3" ch-number="103" type="channel",DISNEY 3
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="FLOW 3" ch-number="103" type="channel",DISNEY 4
 
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
 
-#EXTINF:-1 group-title="PACK FUTBOL",DISNEY 4
+#EXTINF:-1 group-title="PACK FUTBOL",DISNEY 5
 http://205.235.6.29:8000/play/a0pz/index.m3u8#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
 
 #EXTINF:1 CUID="190" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" tvg-id="FOXSports.ar" group-title="Deportes",Fox Sports HD (S)
@@ -226,13 +229,16 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/1155904
 #EXTINF:-1 tvg-id="DSportsUruguay.uy" tvg-logo="https://i.ibb.co/PRN7mZH/logo-dsports-1.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", DIRECTV SPORTS
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 
-#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 op4
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="CANALES DE CABLE",DIREC TV 2
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",Directv Sports 3
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9561
 
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports op5
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",Directv Sports 4
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9562
 
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports op6
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",Directv Sports 5
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9563
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Varios", DSports 2
