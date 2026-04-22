@@ -1,50 +1,26 @@
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="Argentina",LN+ 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+#EXTINF:1 CUID="181" tvg-name="El Nueve HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/800/542/0/0/47205269072808.png" tvg-id="Canal9.ar" group-title="Argentina",El Nueve HD (S)
+http://190.7.19.197:232/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="Argentina",Canal 26 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
+#EXTINF:1 CUID="137" tvg-name="America TV HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/800/542/0/0/47462716073248.png" tvg-id="AmericaTV.ar" group-title="Argentina",America TV HD (S)
+http://190.7.19.197:232/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="Argentina",El Nueve 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DD1GRsP/america.webp" group-title="Argentina",America TV 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
-
-#EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="⭐ ALTERNATIVOS 4 ⭐",Telefe
-
+#EXTINF:1 CUID="248" tvg-name="Telefe HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png" tvg-id="Telefe.ar" group-title="Argentina",Telefe
 http://190.7.19.197:232/play/a059/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="Argentina",TN
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="Deportes",TyC Sports
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+#EXTINF:1 CUID="239" tvg-name="TN HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" tvg-id="TN.ar" group-title="Argentina",TN HD (S)
+http://190.7.19.197:232/play/a03l/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="Deportes",ESPN 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="Deportes",Fox Sports 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
+#EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="Cine, Novelas y Series",HBO 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="Cine, Novelas y Series",HBO 2 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN Premium 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN 1 🇦🇷 
+http://191.97.59.33:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
 http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
