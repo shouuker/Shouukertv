@@ -73,9 +73,6 @@ http://190.7.19.197:232/play/a037/index.m3u8
 http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/341548.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cy6ue8Gg5Pw/maxresdefault.jpg" group-title="DEPORTES", TYC SPORTS
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8
-
 #EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
