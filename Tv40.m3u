@@ -7,7 +7,7 @@ http://190.7.19.197:232/play/a00o/index.m3u8
 http://45.5.151.147:8000/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",ARG | A24
-http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1382111.m3u8
+http://45.5.151.147:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-C5N.png?raw=true" group-title="Noticias",C5N 
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157566
