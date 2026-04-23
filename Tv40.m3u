@@ -43,8 +43,11 @@ http://190.7.19.197:232/play/a03c/index.m3u8
 http://190.7.19.197:232/play/a05a/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="⚽ ESPN ⚽", ESPN PREMIUM
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PREMIUM SUR FHD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •", ESPN PREMIUM
+https://tv.nousiptv.com:8443/Henrymaria/Perato/7940
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN PREMIUM SUR HD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •", ESPN PREMIUM
+https://tv.nousiptv.com:8443/Henrymaria/Perato/43638
 
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="⚽ ESPN ⚽", ESPN PREMIUM 2
@@ -106,10 +109,10 @@ http://186.33.40.97:8789/play/56
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7
 
-http://191.97.59.33:8000/play/a094/index.m3u8
+http://181.225.190.242:8000/play/a01r
 
 #EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", Disney
-http://138.117.86.162:18000/play/a098
+http://181.225.190.242:8000/play/a01l
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY 2
 #EXTVLCOPT:network-caching=1000
