@@ -34,7 +34,7 @@ http://190.7.19.197:232/play/a059/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN
-http://live.btv.mx:2424/stream/278775/smAVz_uhytj5REM-4pYNZbkrcB2
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 
 #EXTINF:1 CUID="245" tvg-name="TV Publica HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/26428256071569.png" tvg-id="TVPublica.ar" group-title="Argentina",TV Publica HD (S)
