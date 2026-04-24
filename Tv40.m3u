@@ -276,85 +276,86 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/8520
 
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
 
-#EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="Cine, Novelas y Series",A&E HD (S)
-http://190.7.19.197:232/play/a00c/index.m3u8
-
-#EXTINF:1 CUID="131" tvg-name="AMC" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/800/542/0/0/29332619071250.png" tvg-id="AMC.ar" group-title="Cine, Novelas y Series",AMC (S)
-http://190.7.19.197:232/play/a046/index.m3u8
-
-#EXTINF:1 CUID="135" tvg-name="AXN HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png" tvg-id="AXN.ar" group-title="Cine, Novelas y Series",AXN HD (S)
-http://190.7.19.197:232/play/a00b/index.m3u8
-
-#EXTINF:1 CUID="153" tvg-name="Cinecanal HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" tvg-id="Cinecanal.ar" group-title="Cine, Novelas y Series",Cinecanal HD (S)
-http://190.7.19.197:232/play/a05y/index.m3u8
-
-#EXTINF:1 CUID="154" tvg-name="Cinemax" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/800/542/0/0/60951863073142.png" tvg-id="Cinemax.ar" group-title="Cine, Novelas y Series",Cinemax (S)
-http://190.7.19.197:232/play/a009/index.m3u8
-
-#EXTINF:1 CUID="156" tvg-name="Comedy Central HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png" tvg-id="ComedyCentral.ar" group-title="Cine, Novelas y Series",Comedy Central HD (S)
-http://190.7.19.197:232/play/a01d/index.m3u8
+#EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="Cine, Novelas y Series",A&E 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
 
 
-#EXTINF:1 CUID="186" tvg-name="FX HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png" tvg-id="FX.ar" group-title="Cine, Novelas y Series",FX HD (S)
-http://190.7.19.197:232/play/a04z/index.m3u8
+#EXTINF:0 tvg-id="AMC HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/amc-es.png", AMC HD
+#EXTVLCOPT:network-caching=1000
+http://177.93.46.245:50000/play/a00i
+
+
+#EXTINF:-1 tvg-id="CineCanal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal
+#EXTVLCOPT:network-caching=1000
+http://190.95.60.228:8500/play/a037
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax 
+http://45.5.151.147:8000/play/a02i/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01d
+
+
+#EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX 
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a01c
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="🎬 UNIVERSAL+ | HBO", HBO
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
 
-#EXTINF:1 CUID="193" tvg-name="HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" tvg-id="HBO2.ar" group-title="Cine, Novelas y Series",HBO 2 (S)
-http://190.7.19.197:232/play/a05g/index.m3u8
+#EXTINF:0 tvg-id="HBO 2.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png", HBO2
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a055
 
-#EXTINF:1 CUID="194" tvg-name="HBO Family" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png" tvg-id="HBOFamily.ar" group-title="Cine, Novelas y Series",HBO Family (S)
-http://190.7.19.197:232/play/a01m/index.m3u8
+#EXTINF:0 tvg-id="HBO Family.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png", HBO FAMILY 
+#EXTVLCOPT:network-caching=1000
+http://38.252.238.18:8000/play/a057
 
-#EXTINF:1 CUID="195" tvg-name="HBO Pop" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/800/542/0/0/68908128073927.png" tvg-id="HBOPop.ar" group-title="Cine, Novelas y Series",HBO POP (S)
-http://190.7.19.197:232/play/a016/index.m3u8
 
-#EXTINF:1 CUID="196" tvg-name="HBO Plus" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png" tvg-id="HBOPlus.ar" group-title="Cine, Novelas y Series",HBO Plus (S)
-http://190.7.19.197:232/play/a05f/index.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Mundi
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
 
-#EXTINF:1 CUID="197" tvg-name="HBO Signature" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png" tvg-id="HBOSignature.ar" group-title="Cine, Novelas y Series",HBO Signature (S)
-http://190.7.19.197:232/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Plus
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
 
-#EXTINF:1 CUID="198" tvg-name="HBO Xtreme" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png" tvg-id="HBOXtreme.ar" group-title="Cine, Novelas y Series",HBO Xtreme (S)
-http://190.7.19.197:232/play/a017/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Xtreme
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
 
 #EXTINF:1 CUID="220" tvg-name="Paramount Network" tvg-logo="https://logo.m3uassets.com/osnparamount.png" tvg-id="ParamountNetwork.ar" group-title="Cine, Novelas y Series",Paramount HD (S)
 http://190.7.19.197:232/play/a052/index.m3u8
 
-#EXTINF:1 CUID="230" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" tvg-id="Sony.ar" group-title="Cine, Novelas y Series",Sony HD (S)
-http://190.7.19.197:232/play/a01g/index.m3u8
-
-#EXTINF:1 CUID="231" tvg-name="Sony Movies HD" tvg-logo="https://logo.m3uassets.com/sonymovies.png" tvg-id="SonyMovies.ar" group-title="Cine, Novelas y Series",Sony Movies HD (S)
-http://190.7.19.197:232/play/a01i/index.m3u8
-
-#EXTINF:1 CUID="232" tvg-name="Space HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/800/542/0/0/98227784074535.png" tvg-id="Space.ar" group-title="Cine, Novelas y Series",Space HD (S)
-http://190.7.19.197:232/play/a050/index.m3u8
-
-#EXTINF:1 CUID="233" tvg-name="Star Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/800/542/0/0/6901418607879.png" tvg-id="StarChannel.ar" group-title="Cine, Novelas y Series",Star Channel HD (S)
-http://190.7.19.197:232/play/a05w/index.m3u8
-
-#EXTINF:1 CUID="234" tvg-name="Studio Universal" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/800/542/0/0/223329100777.png" tvg-id="StudioUniversal.ar" group-title="Cine, Novelas y Series",Studio Universal (S)
-http://190.7.19.197:232/play/a049/index.m3u8
+#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel
+#EXTVLCOPT:network-caching=1000
+http://181.78.21.174:8015/play/a04j
 
 
-#EXTINF:1 CUID="240" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" tvg-id="TNT.ar" group-title="Cine, Novelas y Series",TNT HD (S)
-http://190.7.19.197:232/play/a060/index.m3u8
 
-#EXTINF:1 CUID="241" tvg-name="TNT Novelas HD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" tvg-id="TNTNovelas.ar" group-title="Cine, Novelas y Series",TNT Novelas HD (S)
-http://190.7.19.197:232/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space
+#EXTVLCOPT:network-caching=1000
+http://190.60.48.149:8000/play/SPACE
 
-#EXTINF:1 CUID="242" tvg-name="TNT Series HD" tvg-logo="https://logo.m3uassets.com/tntseries.png" tvg-id="TNTSeries.ar" group-title="Cine, Novelas y Series",TNT Series HD (S)
-http://190.7.19.197:232/play/a088/index.m3u8
+#EXTINF:0 tvg-id="STAR CHANNEL HD.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel 
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a01h
 
-#EXTINF:1 CUID="252" tvg-name="USA Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" tvg-id="USANetwork.ar" group-title="Cine, Novelas y Series",USA Network (S)
-http://190.7.19.197:232/play/a04a/index.m3u8
 
-#EXTINF:1 CUID="253" tvg-name="Universal TV HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" tvg-id="UniversalTV.ar" group-title="Cine, Novelas y Series",Universal HD (S)
-http://190.7.19.197:232/play/a03u/index.m3u8
+#EXTINF:0 tvg-id="TNT.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/united-states/tnt-us.png", TNT
+#EXTVLCOPT:network-caching=1000
+http://190.2.213.5:8000/play/a018
 
-#EXTINF:1 CUID="256" tvg-name="Warner Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/800/542/0/0/14633187073787.png" tvg-id="WarnerChannel.ar" group-title="Cine, Novelas y Series",Warner Channel HD (S)
-http://190.7.19.197:232/play/a01h/index.m3u8
+
+
+#EXTINF:0 tvg-id="Studio Universal.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/studio-universal-lam.png", Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://190.0.247.38:8000/play/a017
+
+#EXTINF:0 tvg-id="Warner Channel.cl" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/warner-channel-lam.png", Warner
+#EXTVLCOPT:network-caching=1000
+http://190.60.40.34:8001/play/a0cm
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
 http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
