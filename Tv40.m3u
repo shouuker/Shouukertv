@@ -114,11 +114,11 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/7940
 https://tv.nousiptv.com:8443/Henrymaria/Perato/43638
 
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="⚽ ESPN ⚽", ESPN PREMIUM 2
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="⚽ ESPN ⚽", ESPN PREMIUM 3
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157562
 
 #EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FUTBOL",Espn Premiun 4
-http://217.26.190.76:8888/play/a0kh/index.m3u8
+http://190.7.19.197:232/play/a038/index.m3u8
 
 #EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FUTBOL",Espn Premiun 5
 http://181.13.252.102:8000/play/a078/index.m3u8
@@ -165,7 +165,7 @@ http://45.5.151.62:8000/play/a00s/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",77-ESPN 5
 
-http://190.7.19.197:232/play/a038/index.m3u8
+http://217.26.190.76:8888/play/a0kh/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 opc 2
 
