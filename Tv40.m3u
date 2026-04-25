@@ -28,7 +28,8 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://farodigital.org/wp-content/uploads/2022/06/TELEFE-OK.png" group-title="Argentina",Telefe H
 #EXTVLCOPT:network-caching=1000
-http://190.95.60.228:8500/play/a031
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe 2
 http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/157589
