@@ -28,7 +28,6 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
 #EXTINF:1 CUID="248" tvg-name="Telefe HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png" tvg-id="Telefe.ar" group-title="Argentina",Telefe
-#EXTVLCOPT:network-caching=1000
 http://190.95.60.228:8500/play/a031
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe 2
