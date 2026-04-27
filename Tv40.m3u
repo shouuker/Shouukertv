@@ -278,15 +278,13 @@ http://177.93.46.245:50000/play/a00i
 
 #EXTINF:-1 tvg-id="CineCanal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal
 #EXTVLCOPT:network-caching=1000
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9629
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Cine",Cinemax 
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9633
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central
 #EXTVLCOPT:network-caching=1000
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9636
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
+
 
 
 #EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX 
@@ -334,16 +332,17 @@ http://45.169.163.237:4000/play/a01h
 
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/TNT_2016_%28Red%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121007" group-title="Cine",TNT 
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9742
-
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
 
 
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9732
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true" group-title="General",Warner Channel
 #EXTVLCOPT:network-caching=1000
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9774
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
 http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
