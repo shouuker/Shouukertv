@@ -443,7 +443,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
 
 
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Variedades",Discovery Science
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/14.m3u8
+http://177.10.184.193:8000/play/a02m/index.m3u8
 
 
 #EXTINF:1 CUID="163" tvg-name="Discovery Theater HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/800/542/0/0/72670030071181.png" tvg-id="DiscoveryTheater.ar" group-title="Variedades",Discovery Theater 
@@ -455,7 +455,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/22.m3u8
 
 
 #EXTINF:1 CUID="165" tvg-name="Discovery World HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/800/542/0/0/24981309071389.png" tvg-id="DiscoveryWorld.ar" group-title="Variedades",Discovery World
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/25.m3u8
+http://177.10.184.193:8000/play/a0a5/index.m3u8
 
 
 #EXTINF:1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="Variedades",History 2 
@@ -463,7 +463,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/368.m3u8
 
 
 #EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="Variedades",History Channel 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/34.m3u8
+http://177.10.184.193:8000/play/a040/index.m3u8
 
 
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo 
