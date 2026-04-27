@@ -295,28 +295,45 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a01c
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="🎬 UNIVERSAL+ | HBO", HBO
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+#EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#EXTINF:0 tvg-id="HBO 2.mx" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-2-lam.png", HBO2
-#EXTVLCOPT:network-caching=1000
-http://38.252.238.18:8000/play/a055
+https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 
-#EXTINF:0 tvg-id="HBO Family.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/hbo-family-lam.png", HBO FAMILY 
-#EXTVLCOPT:network-caching=1000
-http://38.252.238.18:8000/play/a057
+#EXTINF:0 tvg-id="HBO 2.ar" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="ALTERNATIVOS 2",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
+https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Mundi
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
+#EXTINF:0 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="ALTERNATIVOS 2",HBO +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Plus
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
+https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 
+#EXTINF:0 tvg-id="HBO POP.ar" tvg-name="HBO POP" CUID="71" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345430/sj8snppqk04loiqjaaqm.png" group-title="ALTERNATIVOS 2",HBO POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
+https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="🎬 UNIVERSAL+ | HBO", HBO Xtreme
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
+#EXTINF:0 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="ALTERNATIVOS 2",HBO XTREME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
+
+#EXTINF:0 tvg-id="HBO MUNDI.ar" tvg-name="HBO MUNDI" CUID="73" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344600/z0ecxrdo1hm2paiy4vab.png" group-title="ALTERNATIVOS 2",HBO MUNDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+
+#EXTINF:0 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="ALTERNATIVOS 2",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+
+#EXTINF:0 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="ALTERNATIVOS 2",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 
 
 
