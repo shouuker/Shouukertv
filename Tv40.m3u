@@ -134,10 +134,12 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/1229562
 http://181.13.252.102:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORTt 3
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
+http://46.225.94.157/hls/tnt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORTt 4
-http://46.225.94.157/hls/tnt/index.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
+
+
 
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="• LATINO DEPORTES •",TYC SPORTS
 https://tv.nousiptv.com:8443/Henrymaria/Perato/8247
