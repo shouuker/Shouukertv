@@ -287,12 +287,6 @@ http://177.93.46.245:50000/play/a00i
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="General",Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
-
-
-
 #EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX 
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a01c
