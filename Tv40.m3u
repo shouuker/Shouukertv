@@ -125,8 +125,12 @@ http://190.7.19.197:232/play/a038/index.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.ts
 
 
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Premium 
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORTt
+https://tv.nousiptv.com:8443/Henrymaria/Perato/1229562
+
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽TyC/TNT/DIRECTV SPORTS⚽", TNT SPORTt 2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
 
 
@@ -134,9 +138,7 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.ts
 http://181.13.252.102:8000/play/a0bc/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Premium 4
 
-http://190.7.19.197:232/play/a037/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="• LATINO DEPORTES •",TYC SPORTS
