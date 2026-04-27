@@ -1,58 +1,50 @@
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="ALTERNATIVOS 2",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 
-#EXTINF:-1 ch-number="11" tvg-id="[C5NARG].C5N.uy" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="Interés General", C5N
+#EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="ALTERNATIVOS 2",LN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-
-#EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="Interés General", La Nación +
-
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-
-#EXTINF:-1 ch-number="11" tvg-id="EL NUEVE.ar" tvg-logo="https://i.postimg.cc/TwrJGTSJ/elnueve_2.png" group-title="Interés General", elnueve
-
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-
-#EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="Interés General", América 
-
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 
-#EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe 
+#EXTINF:0 tvg-id="CANAL 26.ar" tvg-name="CANAL 26" CUID="10" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="ALTERNATIVOS 2",CANAL 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
+https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="ALTERNATIVOS 2",EL NUEVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
-#EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN
+#EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="ALTERNATIVOS 2",AMERICA TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
-#EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTVLCOPT:http-referrer=https://play.tycsports.com/
-https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
+#EXTINF:1 CUID="248" tvg-name="Telefe HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png" tvg-id="Telefe.ar" group-title="Argentina",Telefe 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes", ESPN
-https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
+#EXTINF:0 tvg-id="TELEFE SANTA FE.ar" tvg-name="TELEFE SANTA FE" CUID="13" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345039/k7wex8tz5j0sazltjb1n.png" group-title="ALTERNATIVOS 2",TELEFE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+
+#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="ALTERNATIVOS 2",TN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+
+#EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+
+#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
