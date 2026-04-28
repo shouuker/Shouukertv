@@ -337,45 +337,20 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
 http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
+http://177.10.184.193:8000/play/a0a9/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" group-title="CANALES DE CABLE",UNIVERSAL COMEDY 
+http://177.10.184.193:8000/play/a09x/index.m3u8
 
-#EXTINF:-1 ch-number="343" tvg-id="[UNIPR].Universal.Premiere.uy" tvg-logo="https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png" group-title="Universal", Universal Premiere 
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" group-title="CANALES DE CABLE",UNIVERSAL CRIME 
+http://177.10.184.193:8000/play/a09w/index.m3u8
 
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE
+http://177.10.184.193:8000/play/a09u/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
-
-#EXTINF:-1 ch-number="344" tvg-id="[UNICI].Universal.Cinema.uy" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" group-title="Universal", Universal Cinema 
-
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
-
-#EXTINF:-1 ch-number="345" tvg-id="[UNICO].Universal.Comedy.uy" tvg-logo="https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png" group-title="Universal", Universal Comedy 
-
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
-
-#EXTINF:-1 ch-number="346" tvg-id="[UNICR].Universal.Crime.uy" tvg-logo="https://i.postimg.cc/ZKptZDFx/Universal_Crime.png" group-title="Universal", Universal Crime 
-
-https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
-
-#EXTINF:-1 ch-number="347" tvg-id="[UNIRE].Universal.Reality.uy" tvg-logo="https://i.postimg.cc/ZKptZDFj/Universal_Reality.png" group-title="Universal", Universal Reality 
-
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
+http://177.10.184.193:8000/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
 
