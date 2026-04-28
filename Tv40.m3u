@@ -20,7 +20,7 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 
-#EXTINF:0 tvg-id="A24.ar" tvg-name="A24" CUID="4" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="ALTERNATIVOS 2",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
