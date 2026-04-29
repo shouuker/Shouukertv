@@ -274,6 +274,12 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38.252.238.18:8000/play/a01c
 
+#EXTINF:0 tvg-id="CINE.AR.ar" tvg-name="CINE.AR" CUID="58" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="ALTERNATIVOS 2",CINE.AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
+
+
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
@@ -326,22 +332,26 @@ http://181.78.21.174:8015/play/a04j
 #EXTVLCOPT:network-caching=1000
 http://190.60.48.149:8000/play/SPACE
 
-#EXTINF:0 tvg-id="STAR CHANNEL HD.ar" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/star-channel-lam.png", Star Channel 
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a01h
+#EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/TNT_2016_%28Red%29.svg/revision/latest/scale-to-width-down/250?cb=20170609121007" group-title="Cine",TNT 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
+#EXTINF:0 tvg-id="TNT.ar" tvg-name="TNT" CUID="46" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345114/pe7pbo0c5bycumcxxcdf.png" group-title="ALTERNATIVOS 2",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
 
 
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/dvds1151/AR-TV/blob/7fd4294a19e2a1b673695231bed11c419fe05c7c/icons/05-Warner.png?raw=true" group-title="General",Warner Channel
-#EXTVLCOPT:network-caching=1000
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:0 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="ALTERNATIVOS 2",WARNER CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
