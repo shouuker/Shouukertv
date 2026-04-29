@@ -345,7 +345,7 @@ https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
 
 
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+http://177.10.184.193:8000/play/a05q/index.m3u8
 
 
 #EXTINF:0 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="ALTERNATIVOS 2",WARNER CHANNEL
