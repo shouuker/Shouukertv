@@ -53,13 +53,11 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:1 CUID="248" tvg-name="Telefe HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png" tvg-id="Telefe.ar" group-title="Argentina",Telefe
 
-#EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe'
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/99.ts
 
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 
 #EXTINF:0 tvg-id="TELEFE SANTA FE.ar" tvg-name="TELEFE SANTA FE" CUID="13" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345039/k7wex8tz5j0sazltjb1n.png" group-title="ALTERNATIVOS 2",TELEFE 2
