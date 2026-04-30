@@ -162,9 +162,7 @@ http://181.176.155.7:8090/play/a1e8/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 6
 http://186.33.40.97:8789/play/56
 
-#EXTINF:0 tvg-id="ESPN 7.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png", ESPN 7 (
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a00u
+
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7 opc2
 http://191.97.59.33:8000/play/a094/index.m3u8
@@ -175,7 +173,7 @@ http://181.225.190.242:8000/play/a01l
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY 2
 #EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a03e
+http://177.10.184.193:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 3
 http://191.97.14.162:8000/play/a016/index.m3u8
@@ -231,7 +229,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
 
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS
-https://tv.nousiptv.com:8443/Henrymaria/Perato/1091366
+http://177.10.184.193:8000/play/a0fc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="CANALES DE CABLE",DIREC TV
 http://217.26.190.76:8888/play/a0co/index.m3u8
