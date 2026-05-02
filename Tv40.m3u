@@ -180,9 +180,9 @@ http://177.10.184.193:8000/play/a0fp/index.m3u8
 http://191.97.14.162:8000/play/a016/index.m3u8
 
 
-#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png",Disney 4*
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png",Disney 4
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-http://45.181.122.46:8090/play/a01t
+http://45.181.122.46:8090/play/a01t.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL",DISNEY 5
 http://205.235.6.29:8000/play/a0pz/index.m3u8#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
