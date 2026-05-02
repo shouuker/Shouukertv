@@ -157,7 +157,7 @@ http://217.26.190.76:8888/play/a0kh/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 opc 2
 
-http://181.176.155.7:8090/play/a1e8/index.m3u8
+https://tv.nousiptv.com:8443/Henrymaria/Perato/1245731
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 6
 http://186.33.40.97:8789/play/56
