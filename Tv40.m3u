@@ -145,7 +145,7 @@ https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
 #EXTINF:0 tvg-id="ESPN 3.ar" tvg-name="ESPN 3" CUID="27" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="ALTERNATIVOS 2",ESPN 3*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/179495
+https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 #EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="ALTERNATIVOS 2",ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
