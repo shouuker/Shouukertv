@@ -236,14 +236,14 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
 
 
 
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2 op1
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2 
 
 https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
 
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus 
 
-http://190.238.43.117:8000/play/a09g/index.m3u8
+https://tv.nousiptv.com:8443/Henrymaria/Perato/27879
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
