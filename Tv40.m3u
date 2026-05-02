@@ -179,13 +179,10 @@ http://177.10.184.193:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 3
 http://191.97.14.162:8000/play/a016/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 
 #EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="FLOW 3" ch-number="103" type="channel",DISNEY 4
 
-https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
+http://181.225.190.242:8000/play/a01n
 
 #EXTINF:-1 group-title="PACK FUTBOL",DISNEY 5
 http://205.235.6.29:8000/play/a0pz/index.m3u8#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
