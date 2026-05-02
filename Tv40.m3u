@@ -228,10 +228,10 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS
 http://177.10.184.193:8000/play/a0fc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="CANALES DE CABLE",DIREC TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 2
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="CANALES DE CABLE",DIREC TV 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 3
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
 
 
