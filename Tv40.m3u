@@ -164,11 +164,10 @@ http://186.33.40.97:8789/play/56
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7 opc2
 http://191.97.59.33:8000/play/a094/index.m3u8
 
-
-#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", Disney
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", Disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:network-caching=3000
-http://181.225.190.242:8000/play/a01l
+#EXTVLCOPT:network-caching=5000
+http://181.225.190.242:8000/play/a01l.ts
 
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY 2
