@@ -309,17 +309,17 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
 
 #EXTINF:0 tvg-id="AMC HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/amc-es.png", AMC HD
 #EXTVLCOPT:network-caching=1000
-http://177.93.46.245:50000/play/a00i
+http://177.10.184.193:8000/play/a0d0/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CineCanal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal
 #EXTVLCOPT:network-caching=1000
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+http://177.10.184.193:8000/play/a059/index.m3u8
 
 
 #EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX 
 #EXTVLCOPT:network-caching=1000
-http://38.252.238.18:8000/play/a01c
+http://177.10.184.193:8000/play/a0d2/index.m3u8
 
 #EXTINF:0 tvg-id="CINE.AR.ar" tvg-name="CINE.AR" CUID="58" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="ALTERNATIVOS 2",CINE.AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -371,13 +371,13 @@ https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 
 #EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel
 #EXTVLCOPT:network-caching=1000
-http://181.78.21.174:8015/play/a04j
+http://177.10.184.193:8000/play/a058/index.m3u8
 
 
 
 #EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space
 #EXTVLCOPT:network-caching=1000
-http://190.60.48.149:8000/play/SPACE
+http://177.10.184.193:8000/play/a061/index.m3u8
 
 #EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
