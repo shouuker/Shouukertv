@@ -160,10 +160,10 @@ http://186.33.40.97:8789/play/56
 #EXTVLCOPT:network-caching=5000
 http://191.97.59.33:8000/play/a094/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", Disney*
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=4000
-http://8.243.70.53:8000/play/a02s/index.m3u8?hls
+
+#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", ESPN HD (Colombia)
+#EXTVLCOPT:network-caching=1000
+http://181.225.190.242:8000/play/a01l
 
 
 
