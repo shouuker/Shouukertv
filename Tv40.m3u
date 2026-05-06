@@ -126,6 +126,10 @@ https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes", ESPN
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
 
 #EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
