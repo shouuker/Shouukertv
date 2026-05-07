@@ -54,10 +54,10 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
 
-#EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe
+#EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
 #EXTVLCOPT:network-caching=4000
-http://tv-max.online:80/Jor584qui/vZfU5jmx2Qb7/712714.ts
+http://soporte-visual.com:8080/latinires2023/TVm8pr9dEAdM/64384
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
