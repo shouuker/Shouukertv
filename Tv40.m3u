@@ -233,9 +233,11 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTVLCOPT:network-caching=4000
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 2
+#EXTVLCOPT:network-caching=8000
+http://tv-max.online:80/Jor584qui/vZfU5jmx2Qb7/592037.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 3
 #EXTVLCOPT:network-caching=3000
 http://tv.zeuspro.xyz:8080/live/alejalcala2/43ef535bdee5/184009.m3u8
 
