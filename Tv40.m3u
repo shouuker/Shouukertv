@@ -173,8 +173,8 @@ http://191.97.59.33:8000/play/a094/index.m3u8
 
 
 #EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY
-##EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us
-http://181.225.190.242:8000/play/a01l
+#EXTVLCOPT:network-caching=9000
+http://tv-max.online:80/Jor584qui/vZfU5jmx2Qb7/742924.ts
 
 
 
