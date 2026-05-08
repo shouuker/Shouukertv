@@ -101,14 +101,17 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CB
 #EXTVLCOPT:http-referer=https://www.google.com/
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PREMIUM SUR FHD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •", ESPN PREMIUM2*
-#EXTVLCOPT:network-caching=5000
-http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PREMIUM SUR FHD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •", ESPN PREMIUM2
+#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
+#EXTVLCOPT:http-referer=https://www.clarovideo.com/
+#EXTVLCOPT:network-caching=4500
+http://45.5.149.220:8000/play/a03m/index.m3u8?
 
-
-#EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FUTBOL",Espn Premiun 3
+#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 3
+#EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
+#EXTVLCOPT:http-referer=https://web.flow.com.ar/
 #EXTVLCOPT:network-caching=5000
-http://190.7.19.197:232/play/a038/index.m3u8
+http://138.59.227.20:8000/play/a086/index.m3u8
 
 
 #EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS PREMIUM*
@@ -120,11 +123,18 @@ http://190.7.19.197:232/play/a038/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Premium 2
-#EXTVLCOPT:network-caching=5000
-https://tv.nousiptv.com:8443/Henrymaria/Perato/1229562
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Premium 2*
+#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
+#EXTVLCOPT:http-referer=https://www.clarovideo.com/
+#EXTVLCOPT:network-caching=4500
+http://45.5.149.220:8000/play/a03r/index.m3u8?
 
-
+#EXTINF:0 tvg-id="TNT.Sports.AR" tvg-name="TNT Sports HD" group-title="ARGENTINA (PERSONAL)",TNT Sports HD
+#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-buffer-size=10485760
+http://138.59.227.20:8000/play/a06z/index.m3u8
 
 
 #EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS
