@@ -58,7 +58,7 @@ https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
 #EXTVLCOPT:http-referer=https://www.clarovideo.com/
 #EXTVLCOPT:network-caching=4500
-http://45.5.149.220:8000/play/a03f/index.m3u8?hls
+http://138.59.227.20:8000/play/a08a/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
@@ -130,11 +130,7 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT Premium 2*
-#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
-#EXTVLCOPT:http-referer=https://www.clarovideo.com/
-#EXTVLCOPT:network-caching=4500
-http://45.5.149.220:8000/play/a03r/index.m3u8?
+
 
 #EXTINF:0 tvg-id="TNT.Sports.AR" tvg-name="TNT Sports HD" group-title="ARGENTINA (PERSONAL)",TNT Sports HD
 #EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
