@@ -108,11 +108,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CB
 #EXTVLCOPT:http-referer=https://www.google.com/
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PREMIUM SUR FHD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •", ESPN PREMIUM2
-#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
-#EXTVLCOPT:http-referer=https://www.clarovideo.com/
-#EXTVLCOPT:network-caching=4500
-http://45.5.149.220:8000/play/a03m/index.m3u8?
 
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 3
 #EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
