@@ -73,10 +73,11 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
-#EXTINF:0 tvg-id="TELEFE SANTA FE.ar" tvg-name="TELEFE SANTA FE" CUID="13" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345039/k7wex8tz5j0sazltjb1n.png" group-title="ALTERNATIVOS 2",TELEFE SANTA FE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="ARGENTINA LOCAL", Telefe Santa Fe
+#EXTVLCOPT:http-user-agent=Sensa/4.2.1 (Linux; Android 10; SmartTV)
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1736" tvg-name="Bravo TV" tvg-logo="https://cdn.m3u.cl/logo/1736_Bravo_TV.png", Bravo TV | AR
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
