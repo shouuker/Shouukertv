@@ -175,22 +175,24 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",77-ESPN 5
-#EXTVLCOPT:network-caching=6000
-http://217.26.190.76:8888/play/a0kh/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="Deportes",ESPN 5 opc 2
-#EXTVLCOPT:network-caching=5000
-https://tv.nousiptv.com:8443/Henrymaria/Perato/1245731
+#EXTINF:0,ESPN 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0jd/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 6
-http://186.33.40.97:8789/play/56
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0dj/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="Deportes",ESPN 7
-#EXTVLCOPT:network-caching=5000
-http://191.97.59.33:8000/play/a094/index.m3u8
+#EXTINF:0,ESPN 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0e6/index.m3u8
 
 
 #EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY
