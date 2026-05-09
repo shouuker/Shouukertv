@@ -54,7 +54,11 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
 
-
+#EXTINF:0,TELEFE
+#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
+#EXTVLCOPT:http-referer=https://www.clarovideo.com/
+#EXTVLCOPT:network-caching=4500
+http://45.5.149.220:8000/play/a03f/index.m3u8?hls
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
