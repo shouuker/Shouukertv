@@ -223,14 +223,14 @@ https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports.png?raw=true" group-title="Deportes",Fox Sports 1 2
 #EXTVLCOPT:network-caching=8000
-http://45.5.151.62:8000/play/a00i/index.m3u8
+http://138.59.227.20:8000/play/a085/index.m3u8
 
-#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="Deportes",Fox Sports 2 HD (S)
+#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="Deportes",Fox Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
-https://tv.nousiptv.com:8443/Henrymaria/Perato/16139
+http://138.59.227.20:8000/play/a09b/index.m3u8
 
 #EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="Deportes",Fox Sports 3 HD (S)
-https://tv.nousiptv.com:8443/Henrymaria/Perato/33475
+http://138.59.227.20:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",TIGO 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
