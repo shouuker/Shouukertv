@@ -34,3 +34,20 @@ http://38.210.3.64:8090/play/a0dj/index.m3u8
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0e6/index.m3u8
+
+#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 
+#EXTVLCOPT:network-caching=1000
+http://177.10.184.193:8000/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 A" group-title="⭐ ALTERNATIVOS 4 ⭐" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 2
+#EXTVLCOPT:network-caching=5000
+http://191.97.14.162:8000/play/a016/index.m3u8
+
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0jb/index.m3u8
+
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 4
+http://205.235.6.29:8000/play/a0pz/index.m3u8
