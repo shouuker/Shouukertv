@@ -261,8 +261,8 @@ http://138.59.227.20:8000/play/a0ft/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
-#EXTVLCOPT:network-caching=8000
-http://tv.zeuspro.xyz:8080/andmolina1/aafZRV6EqV/9560
+#EXTVLCOPT:network-caching=5000
+http://177.10.184.193:8000/play/a0fc/index.m3u8
 
 
 
