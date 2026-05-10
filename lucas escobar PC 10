@@ -63,3 +63,19 @@ http://138.59.227.20:8000/play/a09b/index.m3u8
 
 #EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="Deportes",Fox Sports 3 HD (S)
 http://138.59.227.20:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
+#EXTVLCOPT:network-caching=5000
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0je/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 3
+#EXTVLCOPT:network-caching=4000
+http://138.59.227.20:8000/play/a0ft/index.m3u8
+
