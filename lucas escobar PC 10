@@ -17,6 +17,27 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 #EXTVLCOPT:http-buffer-size=10485760
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
+#EXTINF:0,TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a06x/index.m3u8
+
+#EXTINF:11,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a099/index.m3u8
+
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a098/index.m3u8
+
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a09a/index.m3u8
+
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a084/index.m3u8
+
+
 #EXTINF:0,ESPN 5 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
