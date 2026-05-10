@@ -9,3 +9,28 @@ http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTVLCOPT:http-referer=https://web.flow.com.ar/
 #EXTVLCOPT:network-caching=5000
 http://138.59.227.20:8000/play/a086/index.m3u8
+
+#EXTINF:0 tvg-id="TNT.Sports.AR" tvg-name="TNT Sports HD" group-title="ARGENTINA (PERSONAL)",TNT Sports HD
+#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
+#EXTVLCOPT:network-caching=8000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-buffer-size=10485760
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+#EXTINF:0,ESPN 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0jd/index.m3u8
+
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0dj/index.m3u8
+
+#EXTINF:0,ESPN 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0e6/index.m3u8
