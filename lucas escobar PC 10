@@ -1,0 +1,11 @@
+#EXTINF:0,TELEFE
+#EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
+#EXTVLCOPT:http-referer=https://www.clarovideo.com/
+#EXTVLCOPT:network-caching=4500
+http://138.59.227.20:8000/play/a08a/index.m3u8
+
+#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 
+#EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
+#EXTVLCOPT:http-referer=https://web.flow.com.ar/
+#EXTVLCOPT:network-caching=5000
+http://138.59.227.20:8000/play/a086/index.m3u8
