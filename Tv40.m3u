@@ -221,8 +221,6 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTVLCOPT:network-caching=5000
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX Deportes." tvg-logo="https://i.imgur.com/MDHaf0F.png" group-title="→ USA ←",US: FOX Deportes.
-http://ultra-premium-pro.xyz:8080/live/997079887tv/2y23a7/23437.m3u8
 
 #EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="Deportes",Fox Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
