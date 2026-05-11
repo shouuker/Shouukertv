@@ -59,6 +59,9 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 #EXTVLCOPT:network-caching=4000
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
+#EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" group-title="Aire", Canal 10 Córdoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w469300467_b1769472.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
