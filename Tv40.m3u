@@ -1,6 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://tu-logo.com/dsports.png" group-title="Deportes", DSports
-https://streamtp-abc.net/global2.php?stream=dsports
+#EXTINF:-1 tvg-id="DSports" group-title="Deportes", DSports (StreamEast)
+https://8c51.streameasthd.net/global/dsports/index.m3u8?token=3b2556478c14224b1a181231b277c9887e2e9de5-d2-1778524373-1778470373&ip=179.37.242.127
 
 
 
