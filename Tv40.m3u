@@ -4,6 +4,9 @@ https://8c51.streameasthd.net/global/dsports/index.m3u8?token=3b2556478c14224b1a
 #EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium
 https://14c51.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=ae653ff3e6612deac9b8dd64a25042f93e95ef67-38-1778525272-1778471272
 
+#EXTINF:-1 tvg-id="canal-personalizado" group-title="Deportes", Canal Nuevo
+https://6g4q11n3wstw.54434687.net:8443/hls/x9buv95p9kwqbow.m3u8?s=0PUzTbPLZeXmCM9VKZDdVQ&e=1778502482
+
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
