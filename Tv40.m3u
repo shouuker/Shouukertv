@@ -250,8 +250,12 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes", DSports1
+#EXTINF:-1 tvg-id="DSports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes", DSports 
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://www.streameast.xyz/
+#HTTP-ORIGIN=https://www.streameast.xyz
 https://doc1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=3568b9630b2699e0c4b5c3bcbe25d97ce4b557a5-5e-1778534612-1778480612
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
