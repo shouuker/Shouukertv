@@ -4,11 +4,8 @@ https://8c51.streameasthd.net/global/dsports/index.m3u8?token=3b2556478c14224b1a
 #EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium
 https://14c51.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=ae653ff3e6612deac9b8dd64a25042f93e95ef67-38-1778525272-1778471272
 
-#EXTINF:-1 tvg-id="canal-personalizado" group-title="Deportes", Canal Nuevo
-https://6g4q11n3wstw.54434687.net:8443/hls/x9buv95p9kwqbow.m3u8?s=0PUzTbPLZeXmCM9VKZDdVQ&e=1778502482
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://i.imgur.com/Y8X4uWq.png" group-title="Aire", Telefe
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream/69e0fb650d9e3eb5340cdd5c/publish/media_1800.m3u8?aid=69dfb44d09ecc98dc876969f&dnt=true&uid=Zc0FG0NfktQ2Q4fZb8mqaggDvw1OXMjo&sid=jkeYWbssU8BTVIddzsnkltXoWCXb8b4W&pid=pgKpjrzJk6fpasgFxRWVIFJEO8lCgwP2&ref=mdstrm.com&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1778567634348&ot=QfyViL4dmTcKO5X24ef2Lw&proto=https&pz=us&CMCD=cid%3D%2269e0fb650d9e3eb5340cdd5c%22%2Cmtp%3D25300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22pgKpjrzJk6fpasgFxRWVIFJEO8lCgwP2%22
+#EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" group-title="Aire", Canal 10
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w469300467_b1769472.m3u8
 
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER*
