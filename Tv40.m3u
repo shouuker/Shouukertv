@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-id="DSports" group-title="Deportes", DSports (StreamEast)
 https://8c51.streameasthd.net/global/dsports/index.m3u8?token=3b2556478c14224b1a181231b277c9887e2e9de5-d2-1778524373-1778470373&ip=179.37.242.127
 
+#EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium
+https://14c51.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=ae653ff3e6612deac9b8dd64a25042f93e95ef67-38-1778525272-1778471272
 
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER*
