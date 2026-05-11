@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-id="DSports" group-title="Deportes", DSports (StreamEast)
-https://8c51.streameasthd.net/global/dsports/index.m3u8?token=3b2556478c14224b1a181231b277c9887e2e9de5-d2-1778524373-1778470373&ip=179.37.242.127
-
-#EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium
-https://14c51.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=ae653ff3e6612deac9b8dd64a25042f93e95ef67-38-1778525272-1778471272
-
-#EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" group-title="Aire", Canal 10
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w469300467_b1769472.m3u8
 
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER*
@@ -254,6 +246,8 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
+#EXTINF:-1 tvg-id="DSports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes", DSports 
+https://8c51.streameasthd.net/global/dsports/index.m3u8?token=3b2556478c14224b1a181231b277c9887e2e9de5-d2-1778524373-1778470373&ip=179.37.242.127
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports*
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
