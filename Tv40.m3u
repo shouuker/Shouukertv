@@ -449,6 +449,28 @@ http://177.10.184.193:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
 
+#EXTINF:-1 xui-id="173218" tvg-id="" tvg-name="24/7 - Bob Esponja" tvg-logo="https://i.pinimg.com/736x/64/0d/89/640d898d3e37ac19a0061584a107c126.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Bob Esponja
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AxTBKp2PEeOtxUTnlQ6rrz/ts
+
+#EXTINF:-1 xui-id="197060" tvg-id="" tvg-name="24/7 - El Chavo del 8" tvg-logo="https://original.fontsinuse.com/fontsinuse.com/use-images/N197/197967/197967.jpeg" group-title="24/7 EXCLUSIVOS",24/7 - El Chavo del 8
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1Bq7UT3ZY1gfT0iL-H0DqxQ/ts
+
+#EXTINF:-1 xui-id="419520" tvg-id="" tvg-name="24/7 Coraje El Perro Cobarde" tvg-logo="https://i.pinimg.com/originals/34/df/61/34df6125095daabc33bf79ed3fd5e808.png" group-title="24/7 EXCLUSIVOS",24/7 Coraje El Perro Cobarde
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1BwXUIGC-V5RrcfoJjUXjuJ/ts
+
+#EXTINF:-1 xui-id="284573" tvg-id="" tvg-name="24/7 Marvel 1" tvg-logo="https://wallpapercave.com/wp/wp2700186.jpg" group-title="24/7 EXCLUSIVOS",24/7 Marvel 
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1BoylGz6SRcf2jVXxWwLYUj/ts
+
+#EXTINF:-1 xui-id="285198" tvg-id="" tvg-name="24/7 Harry Potter" tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Harry-Potter-Logo.png" group-title="24/7 EXCLUSIVOS",24/7 Harry Potter
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1Bwfkr3D8-EngKutIaT_xs5/ts
+
+#EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 Los Simpson 
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1CKWEKfa9ofDoBCDJTNsFTx/ts
+
+#EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 Dragon Ball Z 
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1ADCNDjG520fjizE4nHoUaz/ts
+
+
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
 
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5318&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=7f379c24-0e41-4956-892e-8aad976555b8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
