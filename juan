@@ -6,7 +6,7 @@ https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" tvg-id="CNN en Español.ar" group-title="Argentina",CNN en Español
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
-https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
+http://138.59.227.20:8000/play/a093/index.m3u8
 
 #EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="Argentina",Argentina 12 (S)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
@@ -21,17 +21,17 @@ https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
-https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
+http://138.59.227.20:8000/play/a05u/index.m3u8
 
 #EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="ALTERNATIVOS 2",C5N
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
-https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
+http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="ALTERNATIVOS 2",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
-https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+http://138.59.227.20:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://cdn.m3u.cl/logo/285_Net_TV.png", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
@@ -47,17 +47,17 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344744/pqumpg7ubdiyzmozdwsr.png" tvg-id="Canal Rural.ar" group-title="Argentina",Canal Rural
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/465a1-enb61-ad17j-55bp2.m3u8
+http://138.59.227.20:8000/play/a06k/index.m3u8
 
 #EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="ALTERNATIVOS 2",EL NUEVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+http://138.59.227.20:8000/play/a08k/index.m3u8
 
 #EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="ALTERNATIVOS 2",AMERICATV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=4000
-https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
+http://138.59.227.20:8000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal10" tvg-name="Canal 10" group-title="Aire", Canal 10 Córdoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w469300467_b1769472.m3u8
@@ -88,17 +88,16 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="ALTERNATIVOS 2",TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=3000
-https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+http://138.59.227.20:8000/play/a097/index.m3u8
 
 #EXTINF:0 tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA" CUID="17" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="ALTERNATIVOS 2",TV PUBLICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
+http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:0 tvg-id="EL TRECE SATELITAL.ar" tvg-name="EL TRECE SATELITAL" CUID="14" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="ALTERNATIVOS 2",EL TRECE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
+http://138.59.227.20:8000/play/a07b/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
