@@ -143,10 +143,18 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=3000
-https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png" group-title="Deportes", TyC Internacional
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERer=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_cenc/TyC_Internacional.mpd
+
 
 
 
