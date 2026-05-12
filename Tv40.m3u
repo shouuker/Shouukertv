@@ -431,9 +431,6 @@ http://177.10.184.193:8000/play/a05q/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
-http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
 http://177.10.184.193:8000/play/a0a9/index.m3u8
 
