@@ -277,14 +277,6 @@ https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&t
 http://38.210.3.64:8090/play/a0je/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
-#EXTVLCOPT:network-caching=5000
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2
 https://zb533.streamingtv339.com/dsports2/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=0bacd8f434bf67216a3aad7107cac8f4938d6c94-8e-1778645876-1778591876
 
