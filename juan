@@ -1,64 +1,122 @@
-#EXTM3U url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="VOLVER.ar" tvg-logo="https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png" group-title="Cine, Novelas y Series", Volver
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
-
-#EXTINF:-1   tvg-id="VOLVER.ar" tvg-logo="https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png" group-title="Cine, Novelas y Series", Volver
-
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 
 #EXTINF:-1 ch-number="11" tvg-id="[CNNL].CNN.En.Español.uy" tvg-logo="https://i.postimg.cc/J0CFyJwB/CNN_en_Español.png" group-title="Interés General", CNN en Español
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Espanol.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="Interés General", Argentina 12
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 
 #EXTINF:-1 ch-number="11" tvg-id="CRONICA TV.ar" tvg-logo="https://i.postimg.cc/Ny2kSPBN/Cronica.png" group-title="Interés General", Crónica TV
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 
 #EXTINF:0 tvg-id="Canal 26 (ARG)..ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/800/542/0/0/34056872073.png" group-title="Interés General", Canal 26
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="[C5NARG].C5N.uy" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="Interés General", C5N
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-
-#EXTINF:-1 ch-number="11" tvg-id="[C5NARG].C5N.uy" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="Interés General", C5N
-
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
+#EXTINF:-1 tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="Interés General", La Nación +
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-
-#EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="Interés General", La Nación +
-
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://i.postimg.cc/TwrJGTSJ/elnueve_2.png" group-title="Interés General", El Nueve
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
+
+
 
 #EXTINF:-1 tvg-id="292" tvg-name="Telemax" tvg-logo="https://cdn.m3u.cl/logo/292_Telemax.png", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
@@ -67,33 +125,41 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://138.59.227.20:8000/play/a06k/index.m3u8
 
-#EXTINF:-1 ch-number="11" tvg-id="EL NUEVE.ar" tvg-logo="https://i.postimg.cc/TwrJGTSJ/elnueve_2.png" group-title="Interés General", elnueve
-
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="Interés General", América
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-
-#EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="Interés General", América 
-
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png" group-title="Interés General", Canal 10 Córdoba 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
-#EXTINF:-1 ch-number="11" tvg-id="Canal 10.ar" tvg-logo="https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png" group-title="Interés General", Canal 10 Córdoba
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_CBA_HD.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-
-#EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe f
-
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
-
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="⭐ DIRECTV ⭐", Telefe Rosario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -108,36 +174,52 @@ https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 #EXTINF:-1 tvg-id="1736" tvg-name="Bravo TV" tvg-logo="https://cdn.m3u.cl/logo/1736_Bravo_TV.png", Bravo TV | AR
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-
-#EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN
-
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="Interés General", TV Pública 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-#EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="Interés General", TV Pública
-
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd        
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="Interés General", eltrece 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-
-#EXTINF:-1 ch-number="11" tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="Interés General", eltrece
-
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
+#EXTINF:-1 tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce*
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
-
-#EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-REFERER=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+#HTTP-SEC-CH-UA-PLATFORM="Windows"
+#HTTP-SEC-CH-UA-MOBILE=?0
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
 
 #EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png", Argentinisima Satelital | AR
