@@ -281,9 +281,9 @@ http://38.210.3.64:8090/play/a0je/index.m3u8
 https://zb533.streamingtv339.com/dsports2/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=0bacd8f434bf67216a3aad7107cac8f4938d6c94-8e-1778645876-1778591876
 
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus 
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus+
 
-https://ve.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=3b6f98d76c1f9512e9ec7b520eba52a32b0b060f-f6-1778607950-1778553950
+https://pre.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=f4ba9d21b9e2e120df24d659c6dcf5cd697cbbae-b4-1778647720-1778593720
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
