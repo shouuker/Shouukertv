@@ -268,7 +268,7 @@ http://138.59.227.20:8000/play/a0ft/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports.ar" tvg-name="DSports 1" group-title="Deportes", DSports 2
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=21ffd8e626100e3b45a1c14a85a3bd73fba87a7d-7c-1778626918-1778572918
+https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=7aacf5c2bf36b8d8d2908264d8da15032702ceec-12-1778647803-1778593803
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
