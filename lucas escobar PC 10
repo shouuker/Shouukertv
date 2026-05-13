@@ -4,6 +4,13 @@
 #EXTVLCOPT:network-caching=4500
 http://138.59.227.20:8000/play/a08a/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", espn premium 
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
+http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 
 #EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
 #EXTVLCOPT:http-referer=https://web.flow.com.ar/
@@ -22,6 +29,12 @@ https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.
 #HTTP-SEC-FETCH-SITE=same-site
 https://joy.media.edge-apps.net/hls/vnGOMjQbaP64ajGLl4neafrudZbcWGeoJt4s6X8-HRtJ9kj699N09uVqR1w-llgIPL46x2LIRlUIQC2yqZ6buvjsOmAsMbK7ZpMBgw/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
 
+
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", TNT Sports z
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
+http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="TNT.Sports.AR" tvg-name="TNT Sports HD" group-title="ARGENTINA (PERSONAL)",TNT Sports HD
 #EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
