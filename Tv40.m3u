@@ -156,7 +156,7 @@ https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-buffer-size=10485760
 #EXTVLCOPT:http-referer=https://www.google.com/
-https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m_480p.m3u8
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 #EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
