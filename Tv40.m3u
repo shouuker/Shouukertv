@@ -137,6 +137,16 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #EXTVLCOPT:http-buffer-size=10485760
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Deportes", TNT Sports Premium prueba
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://webplayer.joy.edge-apps.net/
+#HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=same-site
+https://joy.media.edge-apps.net/hls/d6urkAijE1xXeKYAXMz8IAaoKOJA-YkUQd2Zykeg-ga381BdtvpF_EDOJSijhPZmrMRFOxEC5dTS3U6YvYvuU5TORMx6umrvF4wPHw/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
+
+
 #EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/8pW4jPj.png" group-title="Deportes", TNT Sports 2
 https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=af1153e2bc36cbe30689e35414b3a3476cf3a254-c2-1778725544-1778671544
 
