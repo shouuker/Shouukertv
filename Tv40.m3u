@@ -101,11 +101,13 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
 
 
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", espn premium z
+#EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium (Za
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
-http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
+#KODIPROP:inputstream.adaptive.max_bandwidth=10000000
+http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.stream/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 1
 #EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
