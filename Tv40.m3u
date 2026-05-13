@@ -106,6 +106,16 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CB
 #EXTVLCOPT:network-caching=5000
 http://138.59.227.20:8000/play/a086/index.m3u8
 
+#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium prueba
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://webplayer.joy.edge-apps.net/
+#HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=same-site
+https://joy.media.edge-apps.net/hls/vnGOMjQbaP64ajGLl4neafrudZbcWGeoJt4s6X8-HRtJ9kj699N09uVqR1w-llgIPL46x2LIRlUIQC2yqZ6buvjsOmAsMbK7ZpMBgw/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
+
+
 #EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium 2*
 https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=9bc7fe1c159b440fd4b074a269d72b0e70d477ec-f2-1778725465-1778671465
 
