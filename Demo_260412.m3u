@@ -49,6 +49,16 @@ https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 
+#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium prueba
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://webplayer.joy.edge-apps.net/
+#HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=same-site
+https://joy.media.edge-apps.net/hls/vnGOMjQbaP64ajGLl4neafrudZbcWGeoJt4s6X8-HRtJ9kj699N09uVqR1w-llgIPL46x2LIRlUIQC2yqZ6buvjsOmAsMbK7ZpMBgw/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
+
+
 #EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
