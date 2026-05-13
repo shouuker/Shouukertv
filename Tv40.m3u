@@ -178,11 +178,11 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png" group-title="Deportes", TyC Internacional
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png" group-title="Deportes", TyC Internacional*
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERer=https://web.flow.com.ar/
 #HTTP-ORIGIN=https://web.flow.com.ar
 #HTTP-SEC-FETCH-DEST=empty
