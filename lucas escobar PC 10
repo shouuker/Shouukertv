@@ -10,12 +10,18 @@ http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTVLCOPT:network-caching=5000
 http://138.59.227.20:8000/play/a086/index.m3u8
 
+#EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium 2*
+https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=9bc7fe1c159b440fd4b074a269d72b0e70d477ec-f2-1778725465-1778671465
+
 #EXTINF:0 tvg-id="TNT.Sports.AR" tvg-name="TNT Sports HD" group-title="ARGENTINA (PERSONAL)",TNT Sports HD
 #EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-buffer-size=10485760
 http://138.59.227.20:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/8pW4jPj.png" group-title="Deportes", TNT Sports 2
+https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=af1153e2bc36cbe30689e35414b3a3476cf3a254-c2-1778725544-1778671544
 
 #EXTINF:0,TyC Sports HD
 #EXTVLCOPT:network-caching=1000
