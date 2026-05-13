@@ -107,7 +107,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CB
 http://138.59.227.20:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium 2*
-https://ve.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=769f840fe9ba17ebc340dc7af173aaab3a1d3711-8a-1778652276-1778598276
+https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=9bc7fe1c159b440fd4b074a269d72b0e70d477ec-f2-1778725465-1778671465
 
 
 
@@ -128,7 +128,7 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/8pW4jPj.png" group-title="Deportes", TNT Sports 2
-https://8c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=43dbe209aaeb58d5b7318f44bb48c287ff8c0715-46-1778645177-1778591177
+https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=af1153e2bc36cbe30689e35414b3a3476cf3a254-c2-1778725544-1778671544
 
 #EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS PREMIUM* 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
