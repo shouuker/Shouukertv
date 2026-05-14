@@ -122,7 +122,7 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 #HTTP-SEC-FETCH-DEST=empty
 #HTTP-SEC-FETCH-MODE=cors
 #HTTP-SEC-FETCH-SITE=same-site
-https://joy.media.edge-apps.net/hls/vnGOMjQbaP64ajGLl4neafrudZbcWGeoJt4s6X8-HRtJ9kj699N09uVqR1w-llgIPL46x2LIRlUIQC2yqZ6buvjsOmAsMbK7ZpMBgw/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
+https://joy.media.edge-apps.net/hls/xDuFJqb1sakA74kODbzBktP0t40vdy3D6-2k75dSqauI4jpBGYRmZqtfGZqj3Ab5Tv1ZkmaQ_3ydto9tdIXwlOXypbfv0uzeMt4Gxw/56cl9-6dffj-hb9op-hik52_1080p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium 2*
