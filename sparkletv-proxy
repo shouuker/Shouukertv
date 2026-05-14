@@ -1,18 +1,23 @@
 #!/usr/bin/env python3
 # ══════════════════════════════════════════
 #   SparkleTv Multi-Channel Proxy
+#   IP     : 192.168.1.57
 #   Puerto : 9191
 #   Uso    : python3 sparkletv_proxy.py
 # ══════════════════════════════════════════
 import urllib.request
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
+HOST = "192.168.1.57"
 PORT = 9191
 
 STREAMS = {
-    "/stream/1": "https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=028a66a0746296a2c180f9932797ef76771d8692-24-1778580446-1778526446",  # ESPN Premium
-    "/stream/2": "https://joy.media.edge-apps.net/hls/d6urkAijE1xXeKYAXMz8IAaoKOJA-YkUQd2Zykeg-ga381BdtvpF_EDOJSijhPZmrMRFOxEC5dTS3U6YvYvuU5TORMx6umrvF4wPHw/hg35c-k15n6-nn351-lje0m_720p/index.m3u8",  # Joy Media HD
-    "/stream/1778732918755": "https://joy.media.edge-apps.net/hls/xDuFJqb1sakA74kODbzBktP0t40vdy3D6-2k75dSqauI4jpBGYRmZqtfGZqj3Ab5Tv1ZkmaQ_3ydto9tdIXwlOXypbfv0uzeMt4Gxw/56cl9-6dffj-hb9op-hik52_1080p/index.m3u8",  # Jh
+    "/stream/1778557251670": "https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=9bc7fe1c159b440fd4b074a269d72b0e70d477ec-f2-1778725465-1778671465",  # Espn
+    "/stream/1778563106133": "https://pre.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=f4ba9d21b9e2e120df24d659c6dcf5cd697cbbae-b4-1778647720-1778593720",  # DirecTV plus
+    "/stream/1778582045470": "https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=af1153e2bc36cbe30689e35414b3a3476cf3a254-c2-1778725544-1778671544",  # Tnt
+    "/stream/1778599655271": "https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=7aacf5c2bf36b8d8d2908264d8da15032702ceec-12-1778647803-1778593803",  # DirecTV
+    "/stream/1778600914021": "https://zb533.streamingtv339.com/dsports2/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=0bacd8f434bf67216a3aad7107cac8f4938d6c94-8e-1778645876-1778591876",  # DirecTV 2
+    "/stream/1778736269774": "https://joy.media.edge-apps.net/hls/vnGOMjQbaP64ajGLl4neafrudZbcWGeoJt4s6X8-HRtJ9kj699N09uVqR1w-llgIPL46x2LIRlUIQC2yqZ6buvjsOmAsMbK7ZpMBgw/56cl9-6dffj-hb9op-hik52_720p/index.m3u8",  # Uuu
 }
 
 class ProxyHandler(BaseHTTPRequestHandler):
@@ -24,7 +29,7 @@ class ProxyHandler(BaseHTTPRequestHandler):
             for path in STREAMS:
                 cid = path.split("/")[-1]
                 lines.append(f"#EXTINF:-1,Canal {cid}")
-                lines.append(f"http://localhost:9191{path}")
+                lines.append(f"http://192.168.1.57:9191{path}")
             data = "\n".join(lines).encode()
             self.send_response(200)
             self.send_header("Content-Type", "application/vnd.apple.mpegurl")
@@ -82,13 +87,16 @@ class ProxyHandler(BaseHTTPRequestHandler):
 
 if __name__ == "__main__":
     server = HTTPServer(("0.0.0.0", PORT), ProxyHandler)
-    print(f"\n  Proxy activo → http://localhost:{port}")
-    print(f"  Playlist    → http://localhost:{port}/playlist.m3u8\n")
+    print(f"\n  Proxy activo → http://192.168.1.57:{port}")
+    print(f"  Playlist    → http://192.168.1.57:{port}/playlist.m3u8\n")
     for path in STREAMS:
-        print(f"  Stream: http://localhost:{port}{path}")
+        print(f"  Stream: http://192.168.1.57:{port}{path}")
     print("\n  Actualizar token en caliente:")
-    print("    curl -X POST http://localhost:9191/update/1 -d 'NUEVA_URL'")
-    print("    curl -X POST http://localhost:9191/update/2 -d 'NUEVA_URL'")
-    print("    curl -X POST http://localhost:9191/update/1778732918755 -d 'NUEVA_URL'")
+    print("    curl -X POST http://192.168.1.57:9191/update/1778557251670 -d 'NUEVA_URL'")
+    print("    curl -X POST http://192.168.1.57:9191/update/1778563106133 -d 'NUEVA_URL'")
+    print("    curl -X POST http://192.168.1.57:9191/update/1778582045470 -d 'NUEVA_URL'")
+    print("    curl -X POST http://192.168.1.57:9191/update/1778599655271 -d 'NUEVA_URL'")
+    print("    curl -X POST http://192.168.1.57:9191/update/1778600914021 -d 'NUEVA_URL'")
+    print("    curl -X POST http://192.168.1.57:9191/update/1778736269774 -d 'NUEVA_URL'")
     print()
     server.serve_forever()
