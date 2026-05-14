@@ -122,7 +122,7 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 #HTTP-SEC-FETCH-DEST=empty
 #HTTP-SEC-FETCH-MODE=cors
 #HTTP-SEC-FETCH-SITE=same-site
-http://192.168.1.57:9191/stream/1778739507656
+https://joy.media.edge-apps.net/hls/mkXx84wvvE_P0eEGT4zaTVOYb-KoRmm_1wg52_Sf58mTmJ2mL7PiFJC0TTrf1d0w6ggmxLp1Ctj9U2X0CuqkPPO80u7Hfscws_06XQ/56cl9-6dffj-hb9op-hik52_1080p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium 2*
@@ -159,7 +159,7 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 #HTTP-SEC-FETCH-DEST=empty
 #HTTP-SEC-FETCH-MODE=cors
 #HTTP-SEC-FETCH-SITE=same-site
-http://localhost:9191/stream/1778732918755
+https://joy.media.edge-apps.net/hls/9cqQ9maSaskRnartFAaORvCuY8Lmhyalkg11epj1L_vHekxh_5RFAL1ThqnM6uFXaFEfH9ZstZlhpzv6QQB0lvI-Ps_qZZGUbAddWw/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/8pW4jPj.png" group-title="Deportes", TNT Sports 2
